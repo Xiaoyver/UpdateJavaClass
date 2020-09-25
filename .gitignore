@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+*.iml
+.idea/*
+/**/target/
+/**/out/
+# Mobile Tools for Java (J2ME)
+
+
+# Package Files #
+*.war
+*.ear
+out
+.idea/
+*.log
